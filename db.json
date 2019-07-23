@@ -16,7 +16,10 @@
     ],
     "vendors": [
         { "id": 1, "title": "Stephens Flea Market" },
-        { "id": 2, "title": "Ford" }
+        { "id": 2, "title": "Ford" },
+        { "id": 2, "title": "ATD INDUSTRIES, INC" },
+        { "id": 2, "title": "BECKHON MANUAL" },
+        { "id": 2, "title": "START PRODUCTS INC." }
     ],
     "profile": {
       "name": "typicode"
