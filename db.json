@@ -9,6 +9,11 @@
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
     ],
+    "purchase_orders": [
+        { "id": 23304, "time_created": "2019-07-22 19:00:00", "vendor": "ATD INDUSTRIES, INC", "class": "Reps:Stephen", "ref_number": "145852"},
+        { "id": 23305, "time_created": "2019-07-22 19:00:00", "vendor": "BECKHON MANUAL", "class": "Reps:Tina", "ref_number": "145852" },
+        { "id": 23306, "time_created": "2019-07-22 19:00:00", "vendor": "START PRODUCTS INC.", "class": "Reps:George", "ref_number": "145852" }
+    ],
     "vendors": [
         { "id": 1, "title": "Stephens Flea Market" },
         { "id": 2, "title": "Ford" }
