@@ -7,5 +7,5 @@
     "vendors": [
         { "id": 1, "title": "Stephens Flea Market" },
         { "id": 2, "title": "Ford" }
-    ],
+    ]
 }
